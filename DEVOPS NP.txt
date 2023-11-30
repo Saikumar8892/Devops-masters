@@ -1,0 +1,27 @@
+                                    Devops
+___________________________________________________________________________________________
+                                     Day-1
+-------------------------------------------------------------------------------------------
+What is Devops?
+                                  Devops
+                                    |
+                            -------------------
+              CI(continuous Integration)/CD(continuous Deployment)
+-------------->Improving delivery
+-------------->Automation
+-------------->Quality
+-------------->Monitoring
+-------------->Testing
+Devops is a process of improving the application delivery by ensuring proper automation , with A-code quality maintained, continuous monitoring, continuous testing
+-------------------------------------------------------------------------------------------
+Why Devops?
+Process that improves the organizational ability to deliver the applications.
+-------------------------------------------------------------------------------------------
+Devops introduce yourself?
+I am a devops engineer from past couple of years i am working as a system engineer, system admin, build release engineer.explain roles and responsibilities like automation,quality,monitoring,testing
+____________________________________________________________________________________________
+                                        Day-2
+                          SOFTWARE DEVELOPMENT LIFE CYCLE(SDLC)
+                             (Design-----Develop------Test)
+ REQUIREMENTS GATHERING---->ANALYSIS&PLANNING----->DESIGN&PROTOTYPE------>DEVELOPMENT----|
+                                 MAINTAINENCE<------INTEGRATION&DELOPYMENT<--TESTING<----|
